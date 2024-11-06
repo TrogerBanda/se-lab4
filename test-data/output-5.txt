@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500
+FAIL # az elso fixen lefullad, így a másodikat nem próbálja indítani
